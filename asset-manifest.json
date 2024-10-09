@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GPMS-react/static/css/main.1326d832.css",
+    "main.js": "/GPMS-react/static/js/main.6c4b6945.js",
+    "static/media/Project.jpg": "/GPMS-react/static/media/Project.ddea21b14f2ff6ccfb98.jpg",
+    "index.html": "/GPMS-react/index.html",
+    "main.1326d832.css.map": "/GPMS-react/static/css/main.1326d832.css.map",
+    "main.6c4b6945.js.map": "/GPMS-react/static/js/main.6c4b6945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1326d832.css",
+    "static/js/main.6c4b6945.js"
+  ]
+}
