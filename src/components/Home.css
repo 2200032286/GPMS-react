@@ -1,0 +1,40 @@
+/* Styling for the Home page */
+
+.home-container {
+    background-image: url('C:\Users\rdeek\OneDrive\Desktop\Srikar\Project.jpg'); /* Replace with the actual image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Darkens the background image */
+    z-index: 1;
+  }
+  
+  .home-content {
+    color: #9b4af7;
+    text-align: center;
+    z-index: 2;
+  }
+  
+  h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 20px;
+    max-width: 600px;
+    line-height: 1.5;
+  }
+  

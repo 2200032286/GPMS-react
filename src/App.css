@@ -1,0 +1,16 @@
+/* Styling for App layout */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e9ecef;
+}
+
+div {
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #343a40;
+}

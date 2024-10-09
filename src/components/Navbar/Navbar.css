@@ -1,0 +1,20 @@
+/* Basic styling for Navbar */
+/* Basic styling for Navbar with space between links */
+div {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    display: flex;
+    justify-content: center; /* Center the items horizontally */
+    gap: 20px; /* Add space between the links */
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 18px;
+  }
+  
+  a:hover {
+    color: #0056b3;
+  }
+    
